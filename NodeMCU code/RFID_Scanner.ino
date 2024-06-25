@@ -9,7 +9,7 @@
 #define WIFI_PASSWORD "yngezy1213"
 
 #define FIREBASE_HOST "https://voting-system-2241a-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "mgFwp7XbQqLj981slyaYwOvomZVmzFBmyWS8YDf0"
+#define FIREBASE_AUTH "secret data key 🔐"
 
 #define SS_PIN D2
 #define RST_PIN D1
