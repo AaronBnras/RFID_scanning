@@ -8,7 +8,7 @@
 #define WIFI_SSID "AaronB"
 #define WIFI_PASSWORD "yngezy1213"
 
-#define FIREBASE_HOST "https://voting-system-2241a-default-rtdb.firebaseio.com/"
+#define FIREBASE_HOST "host database server URL"
 #define FIREBASE_AUTH "secret database key 🔐"
 
 #define SS_PIN D2
